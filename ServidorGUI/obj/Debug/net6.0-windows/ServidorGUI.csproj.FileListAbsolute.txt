@@ -1,0 +1,17 @@
+C:\Users\jose.gomes\Documents\Projetos\ServidorElite\ServidorGUI\bin\Debug\net6.0-windows\ServidorGUI.exe
+C:\Users\jose.gomes\Documents\Projetos\ServidorElite\ServidorGUI\bin\Debug\net6.0-windows\ServidorGUI.deps.json
+C:\Users\jose.gomes\Documents\Projetos\ServidorElite\ServidorGUI\bin\Debug\net6.0-windows\ServidorGUI.runtimeconfig.json
+C:\Users\jose.gomes\Documents\Projetos\ServidorElite\ServidorGUI\bin\Debug\net6.0-windows\ServidorGUI.dll
+C:\Users\jose.gomes\Documents\Projetos\ServidorElite\ServidorGUI\bin\Debug\net6.0-windows\ServidorGUI.pdb
+C:\Users\jose.gomes\Documents\Projetos\ServidorElite\ServidorGUI\obj\Debug\net6.0-windows\ServidorGUI.csproj.AssemblyReference.cache
+C:\Users\jose.gomes\Documents\Projetos\ServidorElite\ServidorGUI\obj\Debug\net6.0-windows\ServidorGUI.Form1.resources
+C:\Users\jose.gomes\Documents\Projetos\ServidorElite\ServidorGUI\obj\Debug\net6.0-windows\ServidorGUI.csproj.GenerateResource.cache
+C:\Users\jose.gomes\Documents\Projetos\ServidorElite\ServidorGUI\obj\Debug\net6.0-windows\ServidorGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose.gomes\Documents\Projetos\ServidorElite\ServidorGUI\obj\Debug\net6.0-windows\ServidorGUI.AssemblyInfoInputs.cache
+C:\Users\jose.gomes\Documents\Projetos\ServidorElite\ServidorGUI\obj\Debug\net6.0-windows\ServidorGUI.AssemblyInfo.cs
+C:\Users\jose.gomes\Documents\Projetos\ServidorElite\ServidorGUI\obj\Debug\net6.0-windows\ServidorGUI.csproj.CoreCompileInputs.cache
+C:\Users\jose.gomes\Documents\Projetos\ServidorElite\ServidorGUI\obj\Debug\net6.0-windows\ServidorGUI.dll
+C:\Users\jose.gomes\Documents\Projetos\ServidorElite\ServidorGUI\obj\Debug\net6.0-windows\refint\ServidorGUI.dll
+C:\Users\jose.gomes\Documents\Projetos\ServidorElite\ServidorGUI\obj\Debug\net6.0-windows\ServidorGUI.pdb
+C:\Users\jose.gomes\Documents\Projetos\ServidorElite\ServidorGUI\obj\Debug\net6.0-windows\ServidorGUI.genruntimeconfig.cache
+C:\Users\jose.gomes\Documents\Projetos\ServidorElite\ServidorGUI\obj\Debug\net6.0-windows\ref\ServidorGUI.dll
